@@ -4,12 +4,12 @@
 
 ## 前言
 
-- 本后台管理模板是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行了定制开发。
+- 本`后台管理模板`是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行定制开发。
 - [本项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
 
 ## 技术栈
 
-Bootstrap + jQuery + jQuery插件 + fis3
+Bootstrap + jQuery + jQuery插件 + node + npm + fis3
 
 ## 定制内容
 
@@ -31,5 +31,5 @@ Bootstrap + jQuery + jQuery插件 + fis3
 
 ## 参考
 
-- [官方网站](https://almsaeedstudio.com/)
+- [AdminLTE2官方网站](https://almsaeedstudio.com/)
 - [百度fis3](http://fis.baidu.com/fis3/index.html)

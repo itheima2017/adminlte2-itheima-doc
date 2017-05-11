@@ -6,6 +6,7 @@
 
 - 本`后台管理模板`是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行定制开发。
 - [本项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
+- [在线浏览](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/all-admin-index.html)
 
 ## 技术栈
 

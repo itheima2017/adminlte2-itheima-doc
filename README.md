@@ -1,6 +1,6 @@
 # AdminLTE2-Itcast-定制版
 
-![后台首页](../img/后台首页.png)
+![后台首页](https://hans007.gitbooks.io/adminlte2-itcast/img/后台首页.png)
 
 ## 前言
 

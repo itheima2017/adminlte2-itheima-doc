@@ -12,7 +12,7 @@
 
 ## 技术栈
 
-Bootstrap3 + AdminLTE2 + jQuery + jQuery插件 + node + npm + fis3
+Bootstrap3 + jQuery
 
 ## 定制说明
 

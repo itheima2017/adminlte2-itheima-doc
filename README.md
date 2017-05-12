@@ -34,36 +34,6 @@ Bootstrap3 + jQuery
 
 ## 目录
 
-* [1.快速上手](1.快速上手/1.1.直接使用.md)
-    * [1.1.直接使用](1.快速上手/1.1.直接使用.md)
-    * [1.2.复用模板代码](1.快速上手/1.2.复用模板代码.md)
-* [2.组件](组件-布局.md)
-    * [组件-布局](组件-布局.md)
-    * [组件-基础表单控件](组件-基础表单控件.md)
-    * [组件-日期控件](组件-日期控件.md)
-    * [组件-编辑器](组件-编辑器.md)
-    * [组件-Input Masks](组件-InputMasks.md)
-    * [组件-颜色选取](组件-颜色选取.md)
-    * [组件-iCheck](组件-iCheck.md)
-    * [组件-数据表格](组件-数据表格.md)
-    * [组件-按钮](组件-按钮.md)
-    * [组件-图标](组件-图标.md)
-    * [组件-时间线](组件-时间线.md)
-    * [组件-对话框](组件-对话框.md)
-    * [组件-widget](组件-widget.md)
-    * [组件-主导航顶栏](组件-主导航顶栏.md)
-    * [组件-Sidebar](组件-Sidebar.md)
-    * [组件-InfoBox](组件-InfoBox.md)
-    * [组件-Box](组件-Box.md)
-    * [组件-LoadingStates](组件-LoadingStates.md)
-    * [组件-DirectChat](组件-DirectChat.md)
-* [3.高级主题](目录结构.md)
-    * [目录结构](目录结构.md)
-    * [JQuery插件列表](JQuery插件列表.md)
-    * [Skins皮肤](Skins皮肤.md)
-    * [Layout](Layout.md)
-    * [JS选项](JS选项.md)
-
 ## 参考
 
 - [AdminLTE2官方网站](https://almsaeedstudio.com/)

@@ -4,13 +4,15 @@
 
 ## 前言
 
-- 本`后台管理模板`是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行定制开发。
+- 本 `后台管理模板` 是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行定制开发。
+- `AdminLTE2` 是一个完全的响应式管理模板，基于 `Bootstrap3` 框架，高度可定制，易于使用。适合从小型移动设备到大型台式机的屏幕分辨率。
+- `AdminLTE2` 框架在网页架构与设计上，有很大的辅助作用，尤其是前端架构设计师，用好 `AdminLTE2` 不但美观，而且可以免去写很大CSS与JS的工作量。
 - [本项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
 - [在线浏览](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/all-admin-index.html)
 
 ## 技术栈
 
-Bootstrap + jQuery + jQuery插件 + node + npm + fis3
+Bootstrap3 + AdminLTE2 + jQuery + jQuery插件 + node + npm + fis3
 
 ## 定制说明
 
@@ -32,7 +34,7 @@ Bootstrap + jQuery + jQuery插件 + node + npm + fis3
 
 ## 目录
 
-* [1.快速上手](传统方式.md)
+* [1.快速上手](1.快速上手/1.1.直接使用.md)
     * [1.1.直接使用](1.快速上手/1.1.直接使用.md)
     * [1.2.复用模板代码](1.快速上手/1.2.复用模板代码.md)
 * [2.组件](组件-布局.md)

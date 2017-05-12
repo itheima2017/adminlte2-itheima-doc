@@ -4,11 +4,13 @@
 
 ## 前言
 
-- 本 `后台管理模板` 是基于开源项目 `AdminLTE2` ，为符合在国内项目中使用，就行定制开发。
-- `AdminLTE2` 是一个完全的响应式管理模板，基于 `Bootstrap3` 框架，高度可定制，易于使用。适合从小型移动设备到大型台式机的屏幕分辨率。
-- `AdminLTE2` 框架在网页架构与设计上，有很大的辅助作用，尤其是前端架构设计师，用好 `AdminLTE2` 不但美观，而且可以免去写很大CSS与JS的工作量。
+- 本 `后台管理模板` 是基于开源项目 `AdminLTE` ，为符合在国内项目中使用，就行定制开发。
+- `AdminLTE` 是一个完全的响应式管理模板，基于 `Bootstrap3` 框架，高度可定制，易于使用。适合从小型移动设备到大型台式机的屏幕分辨率。
+- `AdminLTE` 框架在网页架构与设计上，有很大的辅助作用，尤其是前端架构设计师，用好 `AdminLTE` 不但美观，而且可以免去写很大CSS与JS的工作量。
 - [本项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
 - [在线浏览](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/all-admin-index.html)
+
+> `AdminLTE` is a popular open source WebApp template for admin dashboards and control panels. It is a responsive HTML template that is based on the CSS framework Bootstrap 3. It utilizes all of the Bootstrap components in its design and re-styles many commonly used plugins to create a consistent design that can be used as a user interface for backend applications. AdminLTE is based on a modular design, which allows it to be easily customized and built upon. This documentation will guide you through installing the template and exploring the various components that are bundled with the template.
 
 ## 技术栈
 

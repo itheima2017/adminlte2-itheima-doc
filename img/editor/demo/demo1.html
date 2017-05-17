@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo-Editor</title>
+</head>
+<body>
+<form>
+    <textarea id="editor1" name="editor1" rows="10" cols="80">
+            This is my textarea to be replaced with CKEditor.
+    </textarea>
+</form>
+
+<!--<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/jQuery/jquery-2.2.3.min.js"></script>-->
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/ckeditor/ckeditor.js"></script>
+<script>
+   CKEDITOR.replace('editor1');
+</script>
+
+</body>
+</html>

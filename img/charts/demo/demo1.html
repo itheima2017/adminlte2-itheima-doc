@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>demo</title>
+</head>
+<body>
+<div style="width: 800px; height: 800px; margin: 0 auto;">
+    <canvas id="myChart" width="400" height="400"></canvas>
+</div>
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/jQuery/jquery-2.2.3.min.js"></script>
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/chartjs/Chart.min.js"></script>
+<script>
+    var areaChartData = {
+        labels: ["January", "February", "March", "April", "May", "June", "July"],
+        datasets: [
+            {
+                label: "Electronics",
+                fillColor: "rgba(210, 214, 222, 1)",
+                strokeColor: "rgba(210, 214, 222, 1)",
+                pointColor: "rgba(210, 214, 222, 1)",
+                pointStrokeColor: "#c1c7d1",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(220,220,220,1)",
+                data: [65, 59, 80, 81, 56, 55, 40]
+            },
+            {
+                label: "Digital Goods",
+                fillColor: "rgba(60,141,188,0.9)",
+                strokeColor: "rgba(60,141,188,0.8)",
+                pointColor: "#3b8bba",
+                pointStrokeColor: "rgba(60,141,188,1)",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(60,141,188,1)",
+                data: [28, 48, 40, 19, 86, 27, 90]
+            }
+        ]
+    };
+    var barChartCanvas = $("#myChart").get(0).getContext("2d");
+    var barChart = new Chart(barChartCanvas);
+    var barChartData = areaChartData;
+    barChartData.datasets[1].fillColor = "#00a65a";
+    barChartData.datasets[1].strokeColor = "#00a65a";
+    barChartData.datasets[1].pointColor = "#00a65a";
+    var barChartOptions = {
+        //Boolean - Whether the scale should start at zero, or an order of magnitude down from the lowest value
+        scaleBeginAtZero: true,
+        //Boolean - Whether grid lines are shown across the chart
+        scaleShowGridLines: true,
+        //String - Colour of the grid lines
+        scaleGridLineColor: "rgba(0,0,0,.05)",
+        //Number - Width of the grid lines
+        scaleGridLineWidth: 1,
+        //Boolean - Whether to show horizontal lines (except X axis)
+        scaleShowHorizontalLines: true,
+        //Boolean - Whether to show vertical lines (except Y axis)
+        scaleShowVerticalLines: true,
+        responsive: true,
+    };
+
+    barChart.Bar(barChartData, barChartOptions);
+</script>
+</body>
+
+</html>

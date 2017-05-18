@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo-Editor</title>
+    <link rel="stylesheet" href="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+    <link rel="stylesheet" href="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/jvectormap/jquery-jvectormap-1.2.2.css">
+
+</head>
+<body>
+    <!-- /.box-header -->
+    <div class="box-body pad">
+        <form>
+            <textarea class="textarea" placeholder="Place some text here" style="width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;"></textarea>
+        </form>
+    </div>
+
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/jQuery/jquery-2.2.3.min.js"></script>
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+<script src="http://research.itcast.cn/adminlte2-itcast/release/dist/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.zh-CN.js"></script>
+<script>
+    $(document).ready(function() {
+        // WYSIHTML5编辑器
+        $(".textarea").wysihtml5({
+            locale: 'zh-CN'
+        });
+    });
+
+</script>
+
+</body>
+</html>

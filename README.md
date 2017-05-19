@@ -6,6 +6,7 @@
 - [下载pdf](https://www.gitbook.com/download/pdf/book/itheima2017/adminlte2-itheima-doc)
 - [项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
 - [界面在线浏览](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/all-admin-index.html)
+- [官方手册翻译](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/documentation.html)
 
 ## 前言
 
@@ -25,8 +26,13 @@
 
 ## 技术栈
 
-Bootstrap3 + jQuery
+- 前端
 
+    Bootstrap3 + jQuery
+
+- 编译
+
+    fis3 + gulp + npm
 
 ## 定制说明
 
@@ -52,3 +58,4 @@ Bootstrap3 + jQuery
 
 - [AdminLTE2官方网站](https://almsaeedstudio.com/)
 - [百度fis3](http://fis.baidu.com/fis3/index.html)
+- [gulp](http://gulpjs.com/)

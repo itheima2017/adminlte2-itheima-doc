@@ -4,7 +4,7 @@
 
 - [在线文档](https://itheima2017.gitbooks.io/adminlte2-itheima-doc)
 - [下载pdf](https://www.gitbook.com/download/pdf/book/itheima2017/adminlte2-itheima-doc)
-- [项目Git地址](http://git.oschina.net/docafe/adminlte2-itcast)
+- [项目Git地址](https://github.com/itheima2017/adminlte2-itheima)
 - [界面在线浏览](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/all-admin-index.html)
 - [官方手册翻译](http://research.itcast.cn/adminlte2-itcast/release/dist/pages/documentation.html)
 
